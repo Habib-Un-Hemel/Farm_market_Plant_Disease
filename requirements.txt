@@ -35,7 +35,7 @@ jedi==0.19.1
 Jinja2==3.1.2
 jmespath==1.0.1
 jsonschema==4.19.0
-jupyter-client==8.4.1
+
 jupyter-core==5.3.1
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
