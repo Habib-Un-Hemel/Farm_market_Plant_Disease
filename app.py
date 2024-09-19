@@ -96,7 +96,7 @@ if uploaded_file != None:
     progress.empty()
     i = 0
     my_bar.empty()
-    
+    # 
     # Show the results
     st.write(f"The plant {result['status']}")
 
