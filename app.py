@@ -129,6 +129,6 @@ st.markdown("""
         transform: translateY(1px);
     }
     </style>
-    <a href="https://github.com/Habib-Un-Hemel/Rentology-s-Prediction-Feature" class="button">GitHub</a>
+    <a href="https://github.com/Habib-Un-Hemel/Farm_market_Plant_Disease" class="button">GitHub</a>
     """, unsafe_allow_html=True)
  
